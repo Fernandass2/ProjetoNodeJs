@@ -1,0 +1,27 @@
+{
+  "name": "projetonodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "Nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fernandass2/ProjetoNodeJs.git"
+  },
+  "author": "Fernanda Batista",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fernandass2/ProjetoNodeJs/issues"
+  },
+  "homepage": "https://github.com/Fernandass2/ProjetoNodeJs#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "helmet": "^8.0.0",
+    "mongoose": "^8.12.1",
+    "morgan": "^1.10.0",
+    "nodemon": "^3.1.9"
+  }
+}
